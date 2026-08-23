@@ -1,4 +1,5 @@
 # Simulation-Based Inference of Protein Secondary Structure
+https://protein-secondary-structure-inference-hmm.streamlit.app/
 
 Academic project on predicting protein secondary structure using a two-state Hidden Markov Model (HMM) and BayesFlow.
 
