@@ -6,6 +6,6 @@ matplotlib
 scikit-learn
 hmmlearn
 bayesflow==2.0.12
-tensorflow==2.21.0
 keras==3.15.1
+torch
 biopython
