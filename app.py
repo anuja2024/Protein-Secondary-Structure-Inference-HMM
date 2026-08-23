@@ -1,7 +1,7 @@
 import os
 
 # Set the Keras backend BEFORE importing Keras or BayesFlow.
-os.environ["KERAS_BACKEND"] = "tensorflow"
+os.environ["KERAS_BACKEND"] = "torch"
 
 import numpy as np
 import pandas as pd
