@@ -172,11 +172,4 @@ See `requirements.txt` for the project dependencies and versions.
 - HMM transition and emission probabilities are fixed.
 - The simulator is based on a simplified generative model.
 
-## Authors
 
-- Anuja Patade
-- Ashmi Desai
-- Binal Dave
-- Svetlana Färber
-
-**TU Dortmund University — Simulation-Based Inference**
